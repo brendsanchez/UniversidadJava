@@ -1,0 +1,2 @@
+Pelicula{nombre='Batman'}
+Pelicula{nombre='Max'}
